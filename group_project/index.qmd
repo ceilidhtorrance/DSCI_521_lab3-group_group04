@@ -26,12 +26,7 @@ Anuoluwapo Akinkunmi, Christa Ingabire, Ceilidh Torrance
 - **Anuoluwapo**: Another skill i have is Baking.
 
 
-<<<<<<< HEAD
-- **Ceilidh**: I like to read, craft, watch TV, and spend time with friends and family. 
-- **Anuoluwapo**: I can either sleep, take a walk, cook or go play tennis.
-=======
 ## Q4. What do you do when you are not in front of a computer?
 - **Christa**: I'm trying out a new coffee shop or restaurant
 - **Ceilidh**: I like to read, craft, watch TV, and spend time with friends and family. 
-
->>>>>>> 5b277a0bde2e697562c478c9338c9068ce548825
+- **Anuoluwapo**: I can either sleep, take a walk, cook or go play tennis.
