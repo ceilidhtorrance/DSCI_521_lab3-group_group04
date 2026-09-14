@@ -1,0 +1,20 @@
+---
+title: "Group_4"
+format:
+  revealjs:
+    embed-resources: true
+---
+
+# Group 4
+- Anuoluwapo Akinkunmi, Christa Ingabire, Ceilidh Torrance
+
+## Q1. Where did you live before MDS, and what is one thing you miss about it?
+
+
+## Q2. What did you do before MDS: a degree, a job, or both?
+
+
+## Q3. What is a skill you have that has nothing to do with data science?
+
+
+## Q4. What do you do when you are not in front of a computer?
