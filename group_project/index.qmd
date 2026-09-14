@@ -12,9 +12,10 @@ format:
 **Anuoluwapo**: Before MDS I lived in Abuja, Nigeria and I miss the food.
 
 ## Q2. What did you do before MDS: a degree, a job, or both?
-**Anuoluwapo**: 
+**Anuoluwapo**: Before MDS I worked as a survey data manager.
 
 ## Q3. What is a skill you have that has nothing to do with data science?
-
+**Anuoluwapo**: Another skill i have is Baking.
 
 ## Q4. What do you do when you are not in front of a computer?
+**Anuoluwapo**: I can either sleep, take a walk, cook or go play tennis.
