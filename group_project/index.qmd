@@ -9,6 +9,7 @@ format:
 - Anuoluwapo Akinkunmi, Christa Ingabire, Ceilidh Torrance
 
 ## Q1. Where did you live before MDS, and what is one thing you miss about it?
+<<<<<<< HEAD
 **Anuoluwapo**: Before MDS I lived in Abuja, Nigeria and I miss the food.
 
 ## Q2. What did you do before MDS: a degree, a job, or both?
@@ -19,3 +20,19 @@ format:
 
 ## Q4. What do you do when you are not in front of a computer?
 **Anuoluwapo**: I can either sleep, take a walk, cook or go play tennis.
+=======
+
+- **Ceilidh**: Before MDS I lived in Calgary. The thing I miss about Calgary is being close to my family.
+
+## Q2. What did you do before MDS: a degree, a job, or both?
+
+- **Ceilidh**: I graduated with my Bachelors in Computer Science in 2021. From 2021 until I started MDS I was working as a Marketing Software Consultant. 
+
+## Q3. What is a skill you have that has nothing to do with data science?
+
+- **Ceilidh**: I can sew and crochet!
+
+## Q4. What do you do when you are not in front of a computer?
+
+- **Ceilidh**: I like to read, craft, watch TV, and spend time with friends and family. 
+>>>>>>> ebd0ea086a9d4cc8440af7321db519a1227bf491
