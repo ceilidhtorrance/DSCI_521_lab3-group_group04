@@ -9,7 +9,7 @@ format:
 Anuoluwapo Akinkunmi, Christa Ingabire, Ceilidh Torrance
 
 ## Q1. Where did you live before MDS, and what is one thing you miss about it?
-<<<<<<< HEAD
+
 - **Christa**: I lived in Kigali, Rwanda and I miss my family
 - **Ceilidh**: Before MDS I lived in Calgary. The thing I miss about Calgary is being close to my family.
 
