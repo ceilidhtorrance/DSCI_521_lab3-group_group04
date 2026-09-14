@@ -9,10 +9,10 @@ format:
 - Anuoluwapo Akinkunmi, Christa Ingabire, Ceilidh Torrance
 
 ## Q1. Where did you live before MDS, and what is one thing you miss about it?
-
+**Anuoluwapo**: Before MDS I lived in Abuja, Nigeria and I miss the food.
 
 ## Q2. What did you do before MDS: a degree, a job, or both?
-
+**Anuoluwapo**: 
 
 ## Q3. What is a skill you have that has nothing to do with data science?
 
