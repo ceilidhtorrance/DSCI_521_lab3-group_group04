@@ -30,3 +30,14 @@ Anuoluwapo Akinkunmi, Christa Ingabire, Ceilidh Torrance
 - **Christa**: I'm trying out a new coffee shop or restaurant
 - **Ceilidh**: I like to read, craft, watch TV, and spend time with friends and family. 
 - **Anuoluwapo**: I can either sleep, take a walk, cook or go play tennis.
+
+
+## Anuoluwapo Akinkunmi (anu120)
+
+![](images/anu120-conflict.png)
+
+
+
+## Christa Ingabire (cingabir)
+
+![](images/cingabir-conflict.png)
