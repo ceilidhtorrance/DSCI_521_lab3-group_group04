@@ -41,3 +41,9 @@ Anuoluwapo Akinkunmi, Christa Ingabire, Ceilidh Torrance
 ## Christa Ingabire (cingabir)
 
 ![](images/cingabir-conflict.png)
+
+
+
+## Ceilidh Torrance (ceilidh2)
+
+![](images\ceilidh2-conflict.png)
